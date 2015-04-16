@@ -1,8 +1,3 @@
-
-
-this is a test
-
-
-OK
+#include <opencv2/core/core.cpp>
 
 
