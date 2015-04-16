@@ -1,3 +1,2 @@
 #include <opencv2/core/core.cpp>
-
-
+using namespace cv;
